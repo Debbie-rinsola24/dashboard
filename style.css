@@ -1,0 +1,39 @@
+html, body {
+          width: auto;
+          height: auto;
+          background-color: #F5F5FB;
+}
+/*section1*/
+.section1 {
+          background-color: #FEFEFE;
+          width: 300px;
+          height: 1500px;
+          margin-top: 10px;
+          line-height: 40px;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.img1 {
+          width: 20px;
+          height: 16px;
+          margin-top: 15px;
+}
+.parts {
+           color: rgba(204, 202, 198, 0.712);
+}
+.emmu {
+          line-height: 8px;
+          margin-left: 15px;
+}
+.img2 {
+          width: 50px;
+          height: 60px;
+}
+.p {
+          font-size: 11px;
+           color: rgba(204, 202, 198, 0.712);
+}
+
+/*section2*/
+.box1, .box2, .box3  {
+          width: 270px
+}
